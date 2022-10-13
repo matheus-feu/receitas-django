@@ -1,0 +1,1 @@
+web: gunicornn receitas.wsgi --log-file -
