@@ -17,6 +17,8 @@
 
 O **Panela de Chef** é uma aplicação web desenvolvida em Django, que permite o cadastro de receitas, com seus respectivos ingredientes e modo de preparo. O usuário pode visualizar as receitas cadastradas, pesquisar por receitas, editar e excluir receitas.
 
+Projeto foi desenvolvido juntamente com a escola de Cursos [Alura](https://www.alura.com.br/), no curso de Django 3: Python Web.
+
 ## 🚀 Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -30,3 +32,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Heroku](https://www.heroku.com/)
+
