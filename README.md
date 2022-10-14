@@ -56,11 +56,19 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```bash
 git clone https://github.com/Havokzbr/django-site-receitas.git
 ```
-2. Instalar o arquivo requirements.txt
+2. Criar ambiente virtual
+```python
+python -m venv site-receitas
+```
+3. Ativar ambiente virtual
+```python
+site-receitas/Scripts/Activate
+```
+4. Instalar o arquivo requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
-3. Executar o server local
+5. Executar o server local
 ```bash
 python manage.py runserver
 ```
