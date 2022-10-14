@@ -11,7 +11,6 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 
 from pathlib import Path
-import django_on_heroku
 import os
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -142,4 +141,3 @@ MESSAGE_TAGS = {
     messages.SUCCESS: 'success',
 }
 
-django_on_heroku.settings(locals())
